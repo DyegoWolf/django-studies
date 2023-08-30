@@ -1,6 +1,5 @@
 <h1>Estudos Django e Python</h1>
 <p>Projeto para estudos de back-end e aplicações server-side</p>
-</br>
 <h2>Anotações</h2>
 <ul>
     <li>Criar env: <i>python -m venv nome_env.venv</i></li>
