@@ -6,7 +6,7 @@
     <li>Ativar env: <i>nome_env.venv\Scripts\activate.bat</i>
     <li>Instalar Django: <i>pip install django</i></li>
     <li>Enfatizar bibliotecas e suas respectivas versões dentro do projeto: <i>pip freeze > requirements.txt</i></li>
-    <li>Criar admin sem subdiretório: <i>django-admin startproject nome_projeto</i></li>
+    <li>Criar admin sem subdiretório: <i>django-admin startproject nome_projeto .</i></li>
     <li>Criar apps: <i>django-admin startapp nome_app</i></li>
     <li>Cada novo app criado deve ser adicionado em Installed_Apps no arquivo settings.py</li>
 </ul>
