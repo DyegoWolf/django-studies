@@ -1,3 +1,8 @@
 from django.shortcuts import render
 
-# Create your views here.
+#Renderiza a página html que será acessada mediante uma requisição
+def index(request):
+    return render(request, 'index.html')
+
+def contact(request):
+    return render(request, 'contato.html')
