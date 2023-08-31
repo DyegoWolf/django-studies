@@ -10,6 +10,8 @@
     <li>Criar apps: <i>django-admin startapp nome_app</i></li>
     <li>Cada novo app criado deve ser adicionado em Installed_Apps no arquivo settings.py</li>
     <li>Rodar a aplicação em um servidor web com python: <i>python manage.py runserver</i></li>
+    <li>Criar migrations: <i>python manage.py makemigrations</i></li>
+    <li>Realizar migrate: <i>python manage.py migrate</i></li>
 </ul>
 </br>
 <h4 align="center">🚧  Em construção...  🚧</h4>
