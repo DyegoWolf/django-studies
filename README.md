@@ -12,6 +12,7 @@
     <li>Rodar a aplicação em um servidor web com python: <i>python manage.py runserver</i></li>
     <li>Criar migrations: <i>python manage.py makemigrations</i></li>
     <li>Realizar migrate: <i>python manage.py migrate</i></li>
+    <li>Criar superusuário: <i>python manage.py createsuperuser</i></li>
 </ul>
 </br>
 <h4 align="center">🚧  Em construção...  🚧</h4>
